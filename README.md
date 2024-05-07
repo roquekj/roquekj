@@ -31,6 +31,8 @@
 ### Ferramentas:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&labelColor=0D1117&logoColor=0078D4)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=android-studio&labelColor=0D1117&logoColor=3DDC84)&nbsp;
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-0D1117?style=for-the-badge&logo=coreldraw&labelColor=0D1117&logoColor=6DB33F)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-0D1117?style=for-the-badge&logo=Adobe%20Photoshop&labelColor=0D1117&logoColor=31A8FF)&nbsp;
