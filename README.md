@@ -1,10 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header"/>
 
+<br>
+
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=roquekj&show_icons=true&count_private=true&hide_border=true&title_color=87CEEB&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Roque Maia github stats" />
   <img width="49%" height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=roquekj&layout=compact&hide_border=true&title_color=87CEEB&icon_color=F78242&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
+<br>
 <br>
 
 <div align="center">
