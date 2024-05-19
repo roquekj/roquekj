@@ -1,4 +1,10 @@
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=roquekj&show_icons=true&count_private=true&hide_border=true&title_color=87CEEB&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Roque Maia github stats" />
+  <img width="49%" height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=roquekj&layout=compact&hide_border=true&title_color=87CEEB&icon_color=F78242&text_color=c9d1d9&bg_color=0d1117"/>
+</div>
 
+<br>
+<br>
  
 ### Habilidades principais:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
