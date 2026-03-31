@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=100&section=header&text=Olá,%20eu%20sou%20o%20Roque!&fontSize=30&animation=fadeIn"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=100&section=header&text=Olá,%20eu%20sou%20o%20Roque!&fontSize=30&animation=fadeIn&fontColor=FFFFFF"/>
 
 <div align="center">
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=roquekj&show_icons=true&count_private=true&hide_border=true&title_color=87CEEB&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Roque Maia github stats" />
-  <img width="49%" height="180px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=roquekj&layout=compact&hide_border=true&title_color=87CEEB&icon_color=F78242&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roquekj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roquekj&layout=compact&theme=dark"/>
 </div>
 
 <div align="center">
@@ -39,13 +39,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roquekj/roquekj/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roquekj/roquekj/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roquekj/roquekj/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/roquekj/roquekj/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/roquekj/roquekj/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
